@@ -1,0 +1,43 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Build artifacts
+/build
+/app/build
+/.gradle
+/.kotlin
+/captures
+/.cxx
+*.iml
+
+# Local configuration (contains SDK path + Google Client ID)
+/local.properties
+local.properties
+
+# IDE
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+.externalNativeBuild
+
+# Private/internal docs (not for public repo)
+AGENTS.md
+API_TRACKER.md
+TRACKER.md
+README.md
+
+# Logs
+*.log
+
+# IDE folder
+/.idea/
+
+# Keep rules
+app/src/main/keepRules/
